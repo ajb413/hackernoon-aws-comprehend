@@ -304,7 +304,6 @@ var app = {
     },
     sentimentAnalysis: function (text, id) {
         var deferred = $.Deferred();
-        var _app = this;
 
         $.ajax({
             method: "POST",

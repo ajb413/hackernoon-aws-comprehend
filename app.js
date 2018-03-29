@@ -1,8 +1,8 @@
 // Be sure to replace empty strings with your own App's Publish & Subscribe keys
 // otherwise the demo keys will be used.
-let userPubKey = '' || '__PUBNUB_PUBLISH_KEY__';
-let userSubKey = '' || '__PUBNUB_SUBSCRIBE_KEY__';
-let comprehendFunctionURI = 'https://pubsub.pubnub.com/v1/blocks/sub-key/__SUB_KEY__/__URI__';
+var userPubKey = '' || '__PUBNUB_PUBLISH_KEY__';
+var userSubKey = '' || '__PUBNUB_SUBSCRIBE_KEY__';
+var comprehendFunctionURI = 'https://pubsub.pubnub.com/v1/blocks/sub-key/__SUB_KEY__/__URI__';
 
 // Make a jQuery sort for the chat log based on message timetoken (tt)
 jQuery.fn.sortDomElements = (function() {

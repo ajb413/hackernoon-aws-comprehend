@@ -1,7 +1,7 @@
 # PubNub ChatEngine Demo with Amazon Comprehend
 
 ## Instructions
-* Sign up for PubNub
+* Sign up for [PubNub](https://dashboard.pubnub.com/signup?devrel_gh=hackernoon-aws-comprehend)
 * Sign up for Amazon AWS
 * Run [ChatEngine Setup](https://www.pubnub.com/docs/chat-engine/getting-started#automagic-pubnub-setup)
 * Get AWS `access` and `secret` keys for Comprehend guide [here](https://docs.aws.amazon.com/comprehend/latest/dg/auth-and-access-control.html)
